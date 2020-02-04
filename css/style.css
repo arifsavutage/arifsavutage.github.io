@@ -1,0 +1,50 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron{
+    background-color: transparent !important;
+}
+
+.bg-gradient{
+    background: linear-gradient(45deg, rgb(69, 90, 100) 0%, rgb(69, 90, 100) 1%, rgb(0, 204, 183) 100%);
+    color: whitesmoke;
+}
+
+section {
+    margin: 0px;
+    padding: 25px 0px 25px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
+.ig-thumbnail{
+    width: 100px;
+    height: 100px;
+    float: left;
+    overflow: hidden;
+}
+
+.ig-thumbnail img{
+    width: 100px;
+}
+
+.nama{
+    font-family: 'Pacifico';
+}
+
+.about{
+    padding : 25px 0px 25px 0px;
+}
+
+.icon,
+.icon a{
+    color : dimgray;
+}
+
+.icon a:hover{
+    color : black;
+}
